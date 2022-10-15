@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in computers, virtual machines, pentesting.
-- 🌱 I’m currently learning how to use Ubuntu and virtual machines.
+- 🌱 I’m currently learning how to use Ubuntu, virtual machines, pentesting, python and COMPTIA certifications.
 - 💞️ I’m looking to collaborate on anything I can to help.
 - 📫 How to reach me I am available on Github
 
